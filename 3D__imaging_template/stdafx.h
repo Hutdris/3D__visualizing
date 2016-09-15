@@ -17,10 +17,13 @@
 #include <stdlib.h>
 
 /*OpenGL include*/
+#include <GL/glew.h>
 #include <gl/freeglut.h>
 #include <GL\glut.h>
 #include <GL\freeglut_ext.h>
+#include <GL\freeglut.h>
 #include <GLFW\glfw3.h>
+
 
 /*OpenCV include*/
 #include <opencv2/core/core.hpp>
